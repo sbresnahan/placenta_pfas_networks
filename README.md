@@ -2,6 +2,8 @@
 
 This repository contains analysis code and documentation for the study of PFAS-associated transcriptional network architectures in human placental tissue, linking transplacental transfer efficiency (TPTE) to co-expression network topology and causal mediation of perinatal outcomes.
 
+![Figure 1](fig1_submit.png)
+
 ## Citation
 
 Bresnahan ST, Yong HEJ, Drelichman MG, Campbell SN, Trapse AE, Romo GR, Cellini CM, Lopez S, Chan JKY, Chan S-Y, Elkin ER, Bhattacharya A, Huang JY. Natural variation in transplacental transfer efficiency exposes distinct transcriptional network architectures of PFAS effects on birth weight and gestational age. *bioRxiv* 2026.03.23.712893; doi: [10.64898/2026.03.23.712893](https://doi.org/10.64898/2026.03.23.712893)
