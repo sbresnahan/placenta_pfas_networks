@@ -10,6 +10,8 @@ Bresnahan ST, Yong HEJ, Drelichman MG, Campbell SN, Trapse AE, Romo GR, Cellini 
 
 The placenta reference transcriptome (lr-assembly) and long-read sequencing analysis pipeline are available at [sbresnahan/lr-placenta-transcriptomics](https://github.com/sbresnahan/lr-placenta-transcriptomics).
 
+Differential expression, mediation, WGCNA, and network topology results tables are available from [Google Drive](https://drive.google.com/file/d/1pGZQAQmnB3OORcWxLvN5M6mZvrDDssSM/view?usp=sharing).
+
 ## Repository structure
 
 ### [I. Short-read quantification workflow](I_quantification.md)
